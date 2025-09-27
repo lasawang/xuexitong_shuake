@@ -46,6 +46,7 @@ pip install DrissionPage
    - 在浏览器中完成学习通登录
    - 选择需要完成的课程
    - 登录信息会自动保存到 `cookies.json` 和 `config.json` 文件中
+   - 进行课程空间，然后你选择你要刷的课程可以，立即就可以完成获取可课程信息保存到这个 `config.json`文件中
 
 3. 配置信息会自动填充到对应输入框中：
    - 班级ID (clazzid)
